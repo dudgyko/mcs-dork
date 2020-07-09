@@ -1,0 +1,388 @@
+[00:00:03] [Server thread/INFO]: <Luke_Ochoa> heading over
+[00:00:06] [Server thread/INFO]: <dudgyko> so the coords are actually 2700 1200
+[00:00:22] [Server thread/INFO]: <Luke_Ochoa> wait cant we just tp since we are going to use the other srever
+[00:00:22] [Server thread/WARN]: Luke_Ochoa moved too quickly! -0.4908440028347911,-1.8801603726472536,-17.959348289254535
+[00:00:36] [Server thread/INFO]: <dudgyko> well we might not
+[00:00:47] [Server thread/INFO]: <Luke_Ochoa> that bad huh?
+[00:00:51] [Server thread/INFO]: <dudgyko> ye
+[00:00:57] [Server thread/INFO]: <dudgyko> spigot is broken
+[00:01:14] [Server thread/INFO]: <dudgyko> do you want to see how bad it is?
+[00:01:22] [Server thread/INFO]: <Luke_Ochoa> it runs?
+[00:01:27] [Server thread/INFO]: <dudgyko> its running lol
+[00:01:33] [Server thread/INFO]: <Luke_Ochoa> yes
+[00:01:41] [Server thread/INFO]: <dudgyko> so keep in mind, this is the actual server
+[00:01:46] [Server thread/INFO]: <dudgyko> the other is the broken one
+[00:01:52] [Server thread/INFO]: <Luke_Ochoa> yeah i made sure not to do anything dumb
+[00:01:52] [Server thread/INFO]: <dudgyko> have ip?
+[00:01:56] [Server thread/INFO]: <Luke_Ochoa> no
+[00:02:58] [Server thread/INFO]: <dudgyko> lol
+[00:03:05] [Server thread/INFO]: <dudgyko> want to see other server?
+[00:03:10] [Server thread/INFO]: <dudgyko> want to blow it up
+[00:03:13] [Server thread/INFO]: <Luke_Ochoa> yeah
+[00:03:15] [Server thread/INFO]: Luke_Ochoa lost connection: Disconnected
+[00:03:15] [Server thread/INFO]: Luke_Ochoa left the game
+[00:03:17] [Server thread/INFO]: dudgyko lost connection: Disconnected
+[00:03:17] [Server thread/INFO]: dudgyko left the game
+[00:04:38] [User Authenticator #4/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[00:04:38] [Server thread/INFO]: jak0bii[/47.154.36.225:46496] logged in with entity id 17855 at (137.3339695624571, 55.0, 770.6074203053507)
+[00:04:38] [Server thread/INFO]: jak0bii joined the game
+[00:05:39] [Server thread/INFO]: jak0bii lost connection: Disconnected
+[00:05:39] [Server thread/INFO]: jak0bii left the game
+[01:04:11] [User Authenticator #5/INFO]: UUID of player TobyDriver is 3d53d582-f6d0-4aca-8877-04efa88ee3b5
+[01:04:11] [Server thread/INFO]: TobyDriver[/71.93.242.70:50491] logged in with entity id 18343 at (276.3854657457376, 86.0, 445.04243440177595)
+[01:04:11] [Server thread/INFO]: TobyDriver joined the game
+[01:06:06] [Server thread/INFO]: TobyDriver lost connection: Disconnected
+[01:06:06] [Server thread/INFO]: TobyDriver left the game
+[01:49:35] [User Authenticator #6/INFO]: UUID of player BIGLOO is ffea68d0-2acf-41de-9e42-433a23f86213
+[01:49:35] [Server thread/INFO]: BIGLOO[/97.82.106.140:54837] logged in with entity id 18927 at (375.4193854633834, 1.0, 10.239488804277462)
+[01:49:35] [Server thread/INFO]: BIGLOO joined the game
+[01:50:02] [Server thread/INFO]: BIGLOO lost connection: Disconnected
+[01:50:02] [Server thread/INFO]: BIGLOO left the game
+[04:13:43] [User Authenticator #7/INFO]: UUID of player ethan4350 is 3758861a-479c-468c-9669-6c4141e6b9bc
+[04:13:43] [Server thread/INFO]: ethan4350[/71.80.201.192:53424] logged in with entity id 19261 at (-100.43436472790383, 64.0, 4.421471784568449)
+[04:13:43] [Server thread/INFO]: ethan4350 joined the game
+[04:16:43] [Server thread/INFO]: Villager bdp['Villager'/5439, l='ServerLevel[world]', x=-87.37, y=78.00, z=9.30] died, message: 'Villager was slain by Zombie'
+[04:21:29] [Server thread/INFO]: ethan4350 lost connection: Disconnected
+[04:21:29] [Server thread/INFO]: ethan4350 left the game
+[04:22:13] [User Authenticator #8/INFO]: UUID of player ethan4350 is 3758861a-479c-468c-9669-6c4141e6b9bc
+[04:22:13] [Server thread/INFO]: ethan4350[/71.80.201.192:53488] logged in with entity id 20733 at (-87.9287220916417, 64.0, 11.717752856699992)
+[04:22:13] [Server thread/INFO]: ethan4350 joined the game
+[04:25:45] [User Authenticator #9/INFO]: UUID of player jak0bii is 465b8086-3f7b-4217-ba83-d3b17a6c79e1
+[04:25:45] [Server thread/INFO]: jak0bii[/47.154.36.225:49094] logged in with entity id 21442 at (126.01089664430461, 63.0, 781.5317572214979)
+[04:25:45] [Server thread/INFO]: jak0bii joined the game
+[04:25:52] [Server thread/INFO]: <ethan4350> hi
+[04:25:59] [Server thread/INFO]: <jak0bii> hey
+[04:26:07] [Server thread/INFO]: [jak0bii: Teleported jak0bii to ethan4350]
+[04:26:26] [Server thread/INFO]: <jak0bii> we can replace your stuff
+[04:26:35] [Server thread/INFO]: [jak0bii: Set own game mode to Creative Mode]
+[04:26:56] [Server thread/INFO]: <ethan4350> I'm in a call with my friend now talking about it
+[04:27:15] [Server thread/INFO]: <jak0bii> opps
+[04:27:27] [Server thread/INFO]: <ethan4350> that one was stone lol
+[04:28:00] [Server thread/INFO]: <jak0bii> anything else broken?
+[04:28:37] [Server thread/INFO]: <ethan4350> nothing to bad That I saw
+[04:29:01] [Server thread/INFO]: <ethan4350> Could've been a lot worse
+[04:29:27] [Server thread/INFO]: <jak0bii> yea, fortunately we jumped him within a few minutes of him logging on.
+[04:29:51] [Server thread/INFO]: <jak0bii> how many emralds did you have?
+[04:30:21] [Server thread/INFO]: <ethan4350> I'm not sure, We can always trade for more. So not too worried about them.
+[04:30:53] [Server thread/INFO]: <jak0bii> did you have any netherite?
+[04:30:58] [Server thread/INFO]: <ethan4350> 1 scrap
+[04:31:01] [Server thread/INFO]: <ethan4350> lol
+[04:31:32] [Server thread/INFO]: <jak0bii> what about wood?
+[04:31:51] [Server thread/INFO]: <ethan4350> we had all the saplings except acacia
+[04:32:02] [Server thread/INFO]: <ethan4350> and only one birch sapling
+[04:33:21] [Server thread/INFO]: <ethan4350> I think we had 12 dark oak saplings as well
+[04:33:49] [Server thread/INFO]: <ethan4350> I can always get more though
+[04:34:34] [Server thread/INFO]: <ethan4350> we didn't have acacia
+[04:35:36] [Server thread/INFO]: <jak0bii> what about tools?
+[04:35:46] [Server thread/INFO]: <jak0bii> diamonds?
+[04:36:02] [Server thread/INFO]: <ethan4350> It was junk tools, We had most important tools in echest
+[04:36:12] [Server thread/INFO]: <jak0bii> cool
+[04:36:15] [Server thread/INFO]: <ethan4350> we had a stack and 10 diamonds
+[04:37:05] [Server thread/INFO]: <jak0bii> what about magma blocks?
+[04:37:18] [Server thread/INFO]: <jak0bii> any of this stuff
+[04:37:33] [Server thread/INFO]: <ethan4350> just a little, we can get it back in survival
+[04:37:40] [Server thread/INFO]: <jak0bii> ok
+[04:37:47] [Server thread/INFO]: <ethan4350> we had 24 stacks of sand
+[04:39:22] [Server thread/INFO]: <ethan4350> in creative you can middle click and drag over an item to fill a chest faster
+[04:39:51] [Server thread/INFO]: <jak0bii> oh, middle click?
+[04:40:01] [Server thread/INFO]: <ethan4350> If you have a mouse wheel
+[04:40:02] [Server thread/INFO]: <jak0bii> the scroll wheel?
+[04:40:05] [Server thread/INFO]: <ethan4350> yeah
+[04:40:08] [Server thread/INFO]: <jak0bii> yea i do
+[04:40:32] [Server thread/INFO]: <ethan4350> works to select blocks as well in survival and creative
+[04:40:36] [Server thread/INFO]: <jak0bii> hey that works
+[04:41:15] [Server thread/INFO]: <jak0bii> anything else?
+[04:41:56] [Server thread/INFO]: <ethan4350> That should be good for now, My friend should still be op as well. He can help get the rest back if you want.
+[04:42:25] [Server thread/INFO]: <jak0bii> ok. cool. sorry that happened to you again.
+[04:42:33] [Server thread/INFO]: <ethan4350> No worries
+[04:43:28] [Server thread/INFO]: [jak0bii: Set own game mode to Survival Mode]
+[04:44:43] [Server thread/INFO]: <jak0bii> lol forgot my stuff.
+[04:47:37] [User Authenticator #10/INFO]: UUID of player TheBlackSmith is c517c1ed-08fc-484d-b75d-9e00afad367d
+[04:47:37] [Server thread/INFO]: TheBlackSmith[/108.174.182.203:50848] logged in with entity id 26209 at (-87.23110865689827, 64.0, 3.2503672305127758)
+[04:47:37] [Server thread/INFO]: TheBlackSmith joined the game
+[04:47:55] [Server thread/INFO]: <TheBlackSmith> \o
+[04:47:59] [Server thread/INFO]: <jak0bii> hey
+[04:51:12] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/27311, l='ServerLevel[world]', x=117.20, y=91.06, z=846.26]
+[04:52:33] [Server thread/INFO]: [TheBlackSmith: Gave 256 [Block of Redstone] to TheBlackSmith]
+[04:53:36] [Server thread/INFO]: [TheBlackSmith: Gave 96 [Gold Ingot] to TheBlackSmith]
+[04:54:05] [Server thread/INFO]: [TheBlackSmith: Gave 64 [Block of Coal] to TheBlackSmith]
+[04:57:05] [Server thread/INFO]: [TheBlackSmith: Gave 64 [Diamond] to TheBlackSmith]
+[05:03:55] [Server thread/INFO]: [TheBlackSmith: Gave 2 [Sticky Piston] to TheBlackSmith]
+[05:12:39] [Server thread/INFO]: <jak0bii> has anyone found a slime chunk yet?
+[05:12:45] [Server thread/INFO]: <ethan4350> yeah
+[05:12:48] [Server thread/INFO]: <ethan4350> 6
+[05:13:12] [Server thread/INFO]: <TheBlackSmith> LOL. We just found out half our base is built off center... lol
+[05:13:13] [Server thread/INFO]: <jak0bii> you've found 6 slime chunks!?
+[05:13:19] [Server thread/INFO]: <ethan4350> yeah
+[05:13:24] [Server thread/INFO]: <ethan4350> in a T shape
+[05:13:33] [Server thread/INFO]: <jak0bii> wow!
+[05:13:35] [Server thread/INFO]: <ethan4350> They are marked out our base
+[05:13:51] [Server thread/INFO]: <ethan4350> We have a 5 chunk design on our other world
+[05:14:03] [Server thread/INFO]: <ethan4350> gonna make a 3 chunk one on here
+[05:14:03] [Server thread/INFO]: <jak0bii> do you have a slime farm?
+[05:14:17] [Server thread/INFO]: <ethan4350> not yet, We have to dig it out
+[05:14:30] [Server thread/INFO]: <ethan4350> Kinda wanting a beacon first
+[05:14:54] [Server thread/INFO]: <jak0bii> yea beacon is pretty essentail for that task.
+[05:15:12] [Server thread/INFO]: [TheBlackSmith: Gave 64 [Raw Salmon] to TheBlackSmith]
+[05:15:45] [Server thread/INFO]: TheBlackSmith has made the advancement [Best Friends Forever]
+[05:16:28] [Server thread/INFO]: <ethan4350> we also lost our efficiency 5 villager a few days ago so that makes it a little more annoying
+[05:30:43] [Server thread/WARN]: Fetching packet for removed entity bbg['Iron Ingot'/38688, l='ServerLevel[world]', x=-178.85, y=61.68, z=8.88]
+[05:32:38] [Server thread/INFO]: TheBlackSmith lost connection: Disconnected
+[05:32:38] [Server thread/INFO]: TheBlackSmith left the game
+[05:33:43] [Server thread/INFO]: ethan4350 lost connection: Disconnected
+[05:33:43] [Server thread/INFO]: ethan4350 left the game
+[05:56:39] [User Authenticator #11/INFO]: UUID of player ethan4350 is 3758861a-479c-468c-9669-6c4141e6b9bc
+[05:56:39] [Server thread/INFO]: ethan4350[/71.80.201.192:53927] logged in with entity id 42389 at (-86.91473982049226, 64.0, 6.03518721739701)
+[05:56:39] [Server thread/INFO]: ethan4350 joined the game
+[05:56:56] [Server thread/INFO]: <ethan4350> Thanks for your help earlier
+[05:57:08] [Server thread/INFO]: <jak0bii> yea np
+[06:03:58] [User Authenticator #12/INFO]: UUID of player Luke_Ochoa is 48462099-bd65-42ab-8c4b-dab7c16d0118
+[06:03:59] [Server thread/INFO]: Luke_Ochoa[/97.84.94.104:33008] logged in with entity id 44854 at (2721.4290316190086, 68.9375, 1249.4948770335513)
+[06:03:59] [Server thread/INFO]: Luke_Ochoa joined the game
+[06:05:22] [Server thread/WARN]: Luke_Ochoa moved too quickly! -12.476766488792236,7.018940738701957,-11.601573563339798
+[06:05:22] [Server thread/WARN]: ethan4350 moved too quickly! 3.81136372475188,1.2491870787446828,9.470501440912114
+[06:08:00] [Server thread/WARN]: ethan4350 moved too quickly! 1211.8589054322756,11.233632006042477,-1788.5253687478164
+[06:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7210ms or 144 ticks behind
+[06:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9534ms or 190 ticks behind
+[06:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10292ms or 205 ticks behind
+[06:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5210ms or 104 ticks behind
+[06:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[06:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[06:12:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
+[06:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
+[06:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
+[06:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
+[06:14:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3778ms or 75 ticks behind
+[06:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[06:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6165ms or 123 ticks behind
+[06:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9415ms or 188 ticks behind
+[06:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6702ms or 134 ticks behind
+[06:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7662ms or 153 ticks behind
+[06:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9488ms or 189 ticks behind
+[06:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10766ms or 215 ticks behind
+[06:17:21] [Server thread/INFO]: <jak0bii> is the ender ender operational?
+[06:17:26] [Server thread/INFO]: <Luke_Ochoa> yeah
+[06:17:26] [Server thread/INFO]: <ethan4350> yes
+[06:17:42] [Server thread/INFO]: <Luke_Ochoa> there is an ender chest at the location also
+[06:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06:17:47] [Server thread/INFO]: <ethan4350> yes
+[06:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[06:18:07] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/57867, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[06:18:07] [Server thread/INFO]: <ethan4350> I'm There now, Should be done by the time you get here though
+[06:18:29] [Server thread/WARN]: Fetching packet for removed entity bbg['Egg'/58626, l='ServerLevel[world]', x=108.79, y=86.06, z=831.80]
+[06:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06:18:38] [Server thread/INFO]: <jak0bii> are there plenty of anvils?
+[06:18:43] [Server thread/INFO]: <ethan4350> 3
+[06:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[06:18:55] [Server thread/INFO]: <ethan4350> 5 now
+[06:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[06:19:08] [Server thread/INFO]: <jak0bii> nice
+[06:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8048ms or 160 ticks behind
+[06:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6928ms or 138 ticks behind
+[06:20:06] [Server thread/INFO]: <jak0bii> im still doing a few things no rush
+[06:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7657ms or 153 ticks behind
+[06:20:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6398ms or 127 ticks behind
+[06:20:43] [Server thread/INFO]: <ethan4350> I think I'm done I have 2 good picks now
+[06:20:47] [Server thread/INFO]: <Luke_Ochoa> did you get netherite armor?
+[06:20:57] [Server thread/INFO]: <ethan4350> no
+[06:22:37] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=50, y=28, z=78} fu{x=49, y=28, z=78}
+[06:29:32] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=77, y=34, z=94} fu{x=77, y=34, z=93}
+[06:29:32] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=77, y=34, z=94} fu{x=77, y=34, z=93}
+[06:29:32] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=77, y=34, z=94} fu{x=77, y=34, z=93}
+[06:29:32] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=77, y=34, z=94} fu{x=77, y=34, z=93}
+[06:33:03] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=69, y=34, z=91} fu{x=69, y=33, z=92}
+[06:34:28] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=84, y=34, z=97} fu{x=85, y=32, z=96}
+[06:34:36] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=88, y=34, z=99} fu{x=88, y=33, z=100}
+[06:34:36] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=88, y=34, z=99} fu{x=88, y=33, z=100}
+[06:34:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=85, y=35, z=99} fu{x=85, y=34, z=100}
+[06:34:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=83, y=35, z=95} fu{x=82, y=34, z=95}
+[06:36:23] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=92, y=28, z=95} fu{x=97, y=26, z=96}
+[06:40:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=128, y=33, z=94} fu{x=135, y=31, z=95}
+[06:40:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=128, y=33, z=94} fu{x=135, y=31, z=95}
+[06:42:53] [Server thread/INFO]: ethan4350 has made the advancement [Hidden in the Depths]
+[06:43:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=11, y=13, z=45} fu{x=11, y=13, z=44}
+[06:43:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=11, y=13, z=45} fu{x=11, y=13, z=44}
+[06:43:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=11, y=13, z=45} fu{x=11, y=13, z=44}
+[06:43:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=11, y=13, z=45} fu{x=11, y=13, z=44}
+[06:43:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=11, y=13, z=45} fu{x=11, y=13, z=44}
+[06:43:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=11, y=13, z=45} fu{x=11, y=13, z=44}
+[06:45:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=164, y=30, z=103} fu{x=158, y=27, z=102}
+[06:45:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=164, y=30, z=103} fu{x=158, y=27, z=102}
+[06:45:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=164, y=30, z=103} fu{x=158, y=27, z=102}
+[06:45:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=164, y=30, z=103} fu{x=158, y=27, z=102}
+[06:46:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/75278, l='ServerLevel[world]', x=117.80, y=91.06, z=846.80]
+[06:47:29] [Server thread/INFO]: <ethan4350> cya guys
+[06:47:33] [Server thread/INFO]: <Luke_Ochoa> bye
+[06:47:37] [Server thread/INFO]: ethan4350 lost connection: Disconnected
+[06:47:37] [Server thread/INFO]: ethan4350 left the game
+[06:48:49] [Server thread/INFO]: <Luke_Ochoa> have you found any slime chunks jacob
+[06:49:09] [Server thread/INFO]: <jak0bii> lol i was just asking ethan the same thing
+[06:49:15] [Server thread/INFO]: <jak0bii> no. i havent.
+[06:49:23] [Server thread/INFO]: <jak0bii> ethan say he has.
+[06:49:29] [Server thread/INFO]: <Luke_Ochoa> time to use chunk base
+[06:49:38] [Server thread/INFO]: <jak0bii> it does not work
+[06:49:51] [Server thread/INFO]: <Luke_Ochoa> that may be the giant chunks cleared next to their base
+[06:50:11] [Server thread/INFO]: <jak0bii> i have checked 3 chunks that it said were slime chunks. they are not.
+[06:51:13] [Server thread/INFO]: <Luke_Ochoa> maybe its not up to date for 1.16?
+[06:51:56] [User Authenticator #13/INFO]: UUID of player dudgyko is 29e080f6-a672-469c-9489-bfd2330179a3
+[06:51:56] [Server thread/INFO]: dudgyko[/71.93.242.194:49485] logged in with entity id 77165 at (2718.7068199399223, 68.9375, 1249.5497920807009)
+[06:51:56] [Server thread/INFO]: dudgyko joined the game
+[06:52:08] [Server thread/INFO]: <Luke_Ochoa> eyyy
+[06:52:10] [Server thread/INFO]: <dudgyko> yo
+[06:52:26] [Server thread/INFO]: <jak0bii> hey
+[06:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06:53:34] [Server thread/INFO]: <Luke_Ochoa> do you know if they are using that giant cleared area for slime farming izaak?
+[06:53:37] [Server thread/INFO]: <dudgyko> i was going to migrate but epi is not online
+[06:53:45] [Server thread/INFO]: <dudgyko> im pretty sure they will be
+[06:53:58] [Server thread/INFO]: <Luke_Ochoa> they beat us to it
+[06:54:04] [Server thread/INFO]: <dudgyko> lol
+[06:54:55] [Server thread/WARN]: Luke_Ochoa moved too quickly! 1212.5294329505273,11.233632006042477,-1788.4555550573134
+[06:55:39] [Server thread/INFO]: <dudgyko> bring obsidian lol
+[06:55:55] [Server thread/INFO]: <Luke_Ochoa> lol
+[06:56:08] [Server thread/INFO]: <dudgyko> yerp
+[06:57:59] [Server thread/WARN]: Luke_Ochoa moved too quickly! -17.38093897902496,1.8577420161917502,2.179266784274101
+[06:57:59] [Server thread/WARN]: dudgyko moved too quickly! -16.359211220391444,-1.9565754614482103,-7.062807669824679
+[06:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[06:59:33] [Server thread/INFO]: <Luke_Ochoa> i forgot my new skin
+[06:59:41] [Server thread/INFO]: <dudgyko> lol
+[06:59:45] [Server thread/INFO]: <dudgyko> im still all might
+[07:00:08] [Server thread/INFO]: <Luke_Ochoa> i noticed lolol
+[07:00:49] [Server thread/INFO]: Luke_Ochoa lost connection: Disconnected
+[07:00:49] [Server thread/INFO]: Luke_Ochoa left the game
+[07:01:00] [Server thread/WARN]: dudgyko moved too quickly! 1211.8798716828212,11.233632006042477,-1788.4703953709788
+[07:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8704ms or 174 ticks behind
+[07:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8583ms or 171 ticks behind
+[07:03:34] [User Authenticator #14/INFO]: UUID of player Luke_Ochoa is 48462099-bd65-42ab-8c4b-dab7c16d0118
+[07:03:34] [Server thread/INFO]: Luke_Ochoa[/97.84.94.104:37262] logged in with entity id 89215 at (442.4035713975361, 69.0, 570.6610672719466)
+[07:03:35] [Server thread/INFO]: Luke_Ochoa joined the game
+[07:05:24] [Server thread/INFO]: <jak0bii> Luke_Ochoa i build you a portal on the nether roof
+[07:05:36] [Server thread/INFO]: <Luke_Ochoa> oh sweet
+[07:05:58] [Server thread/INFO]: <Luke_Ochoa> ive been mining magma
+[07:06:02] [Server thread/INFO]: <jak0bii> we jsut have to break the old one
+[07:06:59] [Server thread/INFO]: <jak0bii> cool. for the gold farm
+[07:07:11] [Server thread/INFO]: <Luke_Ochoa> yeah
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=135, y=33, z=100} fu{x=137, y=34, z=100}
+[07:08:06] [Server thread/WARN]: jak0bii moved too quickly! -0.0822555594884875,0.0,10.068078302092658
+[07:08:50] [Server thread/WARN]: jak0bii moved too quickly! 1211.724350314242,11.233632006042477,-1788.56751188291
+[07:09:48] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=138, y=28, z=119} fu{x=136, y=30, z=117}
+[07:09:53] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=134, y=31, z=119} fu{x=134, y=31, z=118}
+[07:11:23] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=120, y=28, z=122} fu{x=119, y=27, z=123}
+[07:11:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/96029, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[07:12:03] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/96614, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[07:12:24] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/96899, l='ServerLevel[world]', x=375.30, y=1.00, z=13.94]
+[07:12:55] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/97437, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[07:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[07:14:56] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=157, y=17, z=104} fu{x=158, y=16, z=104}
+[07:15:11] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=160, y=20, z=102} fu{x=161, y=19, z=102}
+[07:15:14] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=159, y=19, z=100} fu{x=159, y=18, z=99}
+[07:15:14] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=159, y=19, z=100} fu{x=159, y=18, z=99}
+[07:15:14] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=159, y=19, z=100} fu{x=159, y=18, z=99}
+[07:15:14] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=159, y=19, z=100} fu{x=159, y=18, z=99}
+[07:15:22] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=154, y=18, z=99} fu{x=153, y=17, z=99}
+[07:15:47] [Server thread/INFO]: <dudgyko> aight im heading out but i will see u guys laters
+[07:15:54] [Server thread/INFO]: <Luke_Ochoa> aight, see yea
+[07:15:59] [Server thread/INFO]: dudgyko lost connection: Disconnected
+[07:15:59] [Server thread/INFO]: dudgyko left the game
+[07:16:02] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/101451, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[07:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6408ms or 128 ticks behind
+[07:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5226ms or 104 ticks behind
+[07:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7526ms or 150 ticks behind
+[07:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6529ms or 130 ticks behind
+[07:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7199ms or 143 ticks behind
+[07:21:49] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=214, y=16, z=63} fu{x=213, y=16, z=62}
+[07:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[07:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5681ms or 113 ticks behind
+[07:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[07:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[07:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4420ms or 88 ticks behind
+[07:24:26] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=232, y=15, z=59} fu{x=232, y=13, z=57}
+[07:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind
+[07:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[07:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07:25:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[07:26:04] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/109956, l='ServerLevel[world]', x=375.76, y=1.00, z=13.49]
+[07:33:14] [Server thread/INFO]: Luke_Ochoa burned to death
+[07:34:15] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/115630, l='ServerLevel[world]', x=376.70, y=1.00, z=13.49]
+[07:34:17] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/115643, l='ServerLevel[world]', x=376.70, y=1.00, z=13.49]
+[07:34:25] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/115674, l='ServerLevel[world]', x=376.70, y=1.00, z=13.49]
+[07:35:53] [Server thread/INFO]: Luke_Ochoa tried to swim in lava
+[07:37:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=201, y=23, z=119} fu{x=199, y=22, z=119}
+[07:37:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=201, y=23, z=119} fu{x=199, y=22, z=119}
+[07:37:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=201, y=23, z=119} fu{x=199, y=22, z=119}
+[07:40:18] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/119038, l='ServerLevel[world]', x=376.70, y=1.00, z=13.49]
+[07:41:00] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/119536, l='ServerLevel[world]', x=376.70, y=1.00, z=13.49]
+[07:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07:44:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
+[07:44:15] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/122655, l='ServerLevel[world]', x=375.35, y=1.00, z=13.95]
+[07:44:25] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/122707, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[07:47:56] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/124861, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[07:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3626ms or 72 ticks behind
+[07:48:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07:58:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/129424, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[07:59:25] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/129905, l='ServerLevel[world]', x=375.30, y=1.00, z=13.49]
+[08:04:16] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/131900, l='ServerLevel[world]', x=375.30, y=1.00, z=14.03]
+[08:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
+[08:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5342ms or 106 ticks behind
+[08:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
+[08:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6453ms or 129 ticks behind
+[08:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9998ms or 199 ticks behind
+[08:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10629ms or 212 ticks behind
+[08:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9116ms or 182 ticks behind
+[08:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9244ms or 184 ticks behind
+[08:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8780ms or 175 ticks behind
+[08:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3813ms or 76 ticks behind
+[09:24:49] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/158390, l='ServerLevel[world]', x=117.34, y=91.06, z=846.64]
+[09:30:28] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/159341, l='ServerLevel[world]', x=117.34, y=91.06, z=846.64]
+[10:26:19] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/170844, l='ServerLevel[world]', x=117.80, y=91.06, z=846.20]
+[11:19:45] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/178857, l='ServerLevel[world]', x=117.80, y=91.06, z=846.50]
+[11:30:34] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/180441, l='ServerLevel[world]', x=117.80, y=91.06, z=846.20]
+[11:52:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/183837, l='ServerLevel[world]', x=117.34, y=91.06, z=846.64]
+[11:53:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/183946, l='ServerLevel[world]', x=117.80, y=91.06, z=846.20]
+[12:23:43] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/188276, l='ServerLevel[world]', x=117.80, y=91.06, z=846.20]
+[12:45:24] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/191303, l='ServerLevel[world]', x=117.34, y=91.06, z=846.64]
+[13:08:38] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/194436, l='ServerLevel[world]', x=117.80, y=91.06, z=846.20]
+[13:13:08] [User Authenticator #15/INFO]: UUID of player Epibox is 5ab1fe87-cae3-4e80-a1ad-e3345c77f854
+[13:13:08] [Server thread/INFO]: Epibox[/217.138.208.157:52226] logged in with entity id 195025 at (574.2809039564243, 73.5625, 1086.0911564714188)
+[13:13:08] [Server thread/INFO]: Epibox joined the game
+[13:13:13] [Server thread/INFO]: <Epibox> morning
+[13:13:27] [Server thread/INFO]: Epibox lost connection: Disconnected
+[13:13:27] [Server thread/INFO]: Epibox left the game
+[13:53:27] [Server thread/INFO]: jak0bii lost connection: Timed out
+[13:53:27] [Server thread/INFO]: jak0bii left the game
+[13:53:27] [Server thread/WARN]: handleDisconnection() called twice
+[15:21:18] [Server thread/INFO]: Luke_Ochoa lost connection: Disconnected
+[15:21:18] [Server thread/INFO]: Luke_Ochoa left the game
+[18:36:19] [User Authenticator #16/INFO]: UUID of player dudgyko is 29e080f6-a672-469c-9489-bfd2330179a3
+[18:36:19] [Server thread/INFO]: dudgyko[/71.93.242.194:50353] logged in with entity id 209452 at (442.3949798278391, 69.0, 569.7242127222979)
+[18:36:19] [Server thread/INFO]: dudgyko joined the game
+[18:36:23] [Server thread/INFO]: [dudgyko: Stopping the server]
+[18:36:23] [Server thread/INFO]: Stopping server
+[18:36:23] [Server thread/INFO]: Saving players
+[18:36:23] [Server thread/INFO]: Saving worlds
+[18:36:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
